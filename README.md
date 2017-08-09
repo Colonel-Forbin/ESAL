@@ -2,9 +2,9 @@
 
 This repository contains materials for Embedded Systems Lab and Class.
 
-* Instructions on how to setup software and create projects in Keil can be found [here](/Keil_setup)  
-* Documentation on the hardware can be found [here](/Keil_setup)  
-* Labs and instructions can be found in [./Labs](/Labs)    
+* Instructions on how to setup software and create projects in Keil can be found [here](https://github.com/drnobodyphd/LAB_SETUP)  
+* Documentation on the hardware can be found [here](https://drive.google.com/open?id=0B5dyCPYc4bVjbDVFS1dXS1EyU1E)  
+* Labs and instructions can be found in [./Labs](/Labs)     
 * A c project template can be found in [./c_template](/c_template)    
 * Code snippets from class or lab will be uploaded to [./snippets](/snippets)     
 
