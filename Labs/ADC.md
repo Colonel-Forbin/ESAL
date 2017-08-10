@@ -29,7 +29,7 @@ In the ADC_helper.c file include the header file and create a function template.
 ```C    
 	#include "ADC_helper.h"
 
-	//This function ...
+	//This function will setup your ADC hardware as you see fit.
 	void ADC_setup()
 	{
 		//code here.
@@ -56,9 +56,11 @@ Add the files to the your project appropriately and make sure it compiles.
 
 In the ADC_setup function, initialize and setup your ADC lines.  Consult the data sheet sections and peripheral driver library you read as a prelab in order to help you.   
 
-* Read in the ADC values and print them to the screen in Volts.  
-* Check your accuracy with a Volt meter.  
+* Read in the ADC values and print them to the screen in Volts and Hexadecimal values.  
+* Check your accuracy with a voltmeter or oscilliscope. Make note of the error in your documentation.  
 * Print the value of the sensor to the screen as well, not the voltage. 
 	*  Ie.  If it is a presure sensor and you are putting 1N of force on it, make sure it displays 1N of force.  
+
+In your writeup at the top of the c file, make sure to describe in detail how the peripheral is setup, pin configuration, and sensors used. Discuss the issues in code, changes that might need to be made, etc.  Comment on possible other hardware configurations.  
 
 Save your code, commmit it, push to github when documented.  
