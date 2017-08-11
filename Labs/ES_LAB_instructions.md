@@ -23,15 +23,14 @@ Excellent resources for code examples are
 2. UART
 3. Interrupt Controller (NVIC) w/ GPIO
 4. System Tick
-6. Timer 
-7. Watchdog Timer  
-8. Analog Comparator   
-9. Analog to Digital Converter
-10. Pulse Width Modulator (PWM)  
+5. Analog to Digital Converter
+6. Pulse Width Modulator (PWM)
+7. Midterm  
 
-#### Additional drivers in the peripheral library available for you to experiement with or add into your final project.  
+#### Additional drivers in the peripheral library available for you to experiment with or add into your final project.  
     
 * AES    
+* Analog Comparator
 * Controller Area Network (CAN)    
 * CRC    
 * DES   
@@ -47,15 +46,16 @@ Excellent resources for code examples are
 * 1-Wire Master Module   
 * Quadrature Encoder (QEI)   
 * SHA/MD5   
-* Synchronous Serial Interface (SSI)   
+* Synchronous Serial Interface (SSI)
+* Timer    
 * uDMA   
 * USB   
+* Watchdog Timer
 
   
 #### Midterm Evaluation Criteria (30%) 
 
-* All 10 skills acquired.
-	* All peripherals are working together simultaneously and interacting with each other. 
+* All skills acquired.
 * Working system demonstrated to instructor 
 * Coding formatted properly
 * Code commented properly

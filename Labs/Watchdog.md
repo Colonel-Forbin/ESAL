@@ -1,3 +1,0 @@
-# Watchdog Lab
-
-TBD

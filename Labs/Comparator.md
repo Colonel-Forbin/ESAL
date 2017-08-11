@@ -1,3 +1,0 @@
-# Comparator Lab
-
-TBD

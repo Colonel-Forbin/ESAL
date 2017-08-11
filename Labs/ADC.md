@@ -1,4 +1,4 @@
-# ADC Lab
+# ADC Skill Development
 
 #### Prelab
 
@@ -18,7 +18,7 @@ In ADC_helper.h create struct that defines all the ADC data you will be reading 
 		...variables
 	}; 
 
-In ADC_helper.h create two function prototypes, and make sure you understand what the second and third function prototype are doing before you proceed.
+In ADC_helper.h create three function prototypes, and make sure you understand what the second and third function prototype are doing before you proceed.
 ```C    
 	void ADC_setup (void) ; 
 	void process_ADC( struct ADC_DATA * );

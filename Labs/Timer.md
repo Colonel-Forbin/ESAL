@@ -1,3 +1,0 @@
-# Timer Lab
-
-TBD
