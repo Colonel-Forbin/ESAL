@@ -8,7 +8,7 @@
  * Give both team members access to this repository 
  * As you go through the labs, the instructor will post issues on github, which you may/may not address.
  * In the middle of the semester, your repo will be cloned and midterm grades will be given.
- * On week 6 you give a short presentation on your embedded system you will be building for the rest of the semester.  The instructor will provide feedback on your design to make sure it is within scope and you can complete it on time.  
+ * On week 6 you will give a short presentation on the project you will be building for the rest of the semester.  The instructor will provide feedback on your design to make sure it is within scope and you can complete it on time.  
  * Demonstrations and presentations of your final project will occur during the last two weeks of class.   
 
 
@@ -78,6 +78,18 @@ Excellent resources for code examples are
 * Time used wisely
 * Distribution of work fair (monitored on github)  
 * Code works 
+* Project tested and verified with results
 * Presented plan for final project
+
+
+#### Final Project Examples
+
+* Porting DOOM to the TIVA board
+* Fast video display system for the LCD Screen
+* Secret Message Passing with AES Encryption
+* I2C driver for an advanced peripheral
+* Motor Controller
+* Motor speed verification system
+* You may also connect your project to someone elses
 
 
